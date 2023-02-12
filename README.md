@@ -69,3 +69,5 @@ Informações de mockup, fonte e assets estão disponíveis no Figma.
 [#5. Navegação Modular](https://www.youtube.com/watch?v=idaCfJJIyyg)
 
 [#6. Refatoração](https://www.youtube.com/watch?v=YdOuowFzdX8)
+
+[#7. Gerenciamento e distribuição de estado](https://www.youtube.com/watch?v=wR4hWOz9Ghk)
