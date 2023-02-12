@@ -53,7 +53,7 @@ Informações de mockup, fonte e assets estão disponíveis no Figma.
 
 # 3. Arquitetura
 
-[Geral](ARCHITECTURE.md)
+[Geral](architeture.md)
 
 
 # 4. Vídeos
